@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Javier López Prol</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>The cannibalization effect of wind and solar in the California wholesale electricity market</title>
+      <link>/publication/cannibalization/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cannibalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation, profitability and diffusion of photovoltaic grid-connected systems: A comparative analysis of Germany and Spain</title>
+      <link>/publication/pv_es_de/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pv_es_de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The social profitability of photovoltaics in Germany</title>
+      <link>/publication/pv_srr_de/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pv_srr_de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking back at the future: Dynamics of collective expectations about photovoltaic technology in Germany and Spain</title>
+      <link>/publication/expectations/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/expectations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photovoltaic self-consumption regulation in Spain: Profitability analysis and alternative regulation schemes</title>
+      <link>/publication/pv_sc_es/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pv_sc_es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The profit-investment ratio: economic growth in Spain 1994-2007</title>
+      <link>/publication/profit-investment/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/profit-investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albania and the EU: A path to convergence?</title>
+      <link>/publication/albania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/albania/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
