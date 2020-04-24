@@ -16,7 +16,7 @@ education:
   - course: B.A. in Law
     institution: University of A Coruña, 2012
     # year: 2008
-email: "javier.lopez-prol@uni-graz.at"
+email: javier.lopez-prol@uni-graz.at
 interests:
 - Environmental Economics
 - Political Economy
@@ -32,8 +32,8 @@ organizations:
 role: Postdoc Schrödinger fellow
 social:
 - icon: envelope
-  icon_pack: fas
-  link: 'javier.lopez-prol@uni-graz.at'
+  icon_pack: fa
+  link: mailto:your@email.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lopez_prol
