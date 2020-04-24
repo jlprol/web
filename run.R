@@ -151,7 +151,7 @@ bibtex_2academic <- function(bibfile, outfold, abstract = FALSE, overwrite = FAL
 }
 
 my_bibfile <- "mypapers.bib"
-out_fold   <- "./content/publication"
+out_fold   <- "./papers/publication"
 
 bibtex_2academic(bibfile  = my_bibfile, 
                  outfold   = out_fold, 

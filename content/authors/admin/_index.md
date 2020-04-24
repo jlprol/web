@@ -33,7 +33,7 @@ role: Postdoc Schrödinger fellow
 social:
 - icon: envelope
   icon_pack: fa
-  link: mailto:your@email.com
+  link: mailto:javier.lopez-prol@uni-graz.at
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lopez_prol
