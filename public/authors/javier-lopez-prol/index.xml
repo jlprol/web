@@ -5,12 +5,20 @@
     <link>/authors/javier-lopez-prol/</link>
       <atom:link href="/authors/javier-lopez-prol/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Lopez Prol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Javier Lopez Prol</title>
       <link>/authors/javier-lopez-prol/</link>
     </image>
+    
+    <item>
+      <title>Impact of COVID-19 measures on electricity consumption</title>
+      <link>/publication/covid/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/covid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The cannibalization effect of wind and solar in the California wholesale electricity market</title>

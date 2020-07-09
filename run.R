@@ -1,10 +1,10 @@
 library(blogdown)
 
-blogdown::new_site(theme = 'gcushen/hugo-academic')
+# blogdown::new_site(theme = 'gcushen/hugo-academic')
 
 blogdown::serve_site()
 
-# function to create publication list
+# function to create publication list chao
 # Source: https://lbusett.netlify.app/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/
 bibtex_2academic <- function(bibfile, outfold, abstract = FALSE, overwrite = FALSE) {
   
@@ -156,3 +156,6 @@ out_fold   <- "./papers/publication"
 bibtex_2academic(bibfile  = my_bibfile, 
                  outfold   = out_fold, 
                  abstract  = FALSE)
+
+
+blogdown:::new_post_addin()

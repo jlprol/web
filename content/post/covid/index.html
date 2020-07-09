@@ -1,0 +1,32 @@
+---
+title: Impact of COVID-19 on electricity consumption
+author: Javier López Prol
+date: '2020-05-19'
+slug: impact-of-covid-19-on-electricity-consumption
+categories: []
+tags:
+  - COVID
+  - electricity consumption
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-05-19T20:16:16+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+
+<p>The measures taken by governments to halt the spread of COVID-19 have heterogeneously affected electricity consumption. The Bruegel Institute is tracking the evolution of peak electricity demand compared to last year (see <a href="https://www.bruegel.org/publications/datasets/bruegel-electricity-tracker-of-covid-19-lockdown-effects/">here</a>), and the International Energy Agency has a full report on the impact of COVID-19 on the energy sector (see <a href="https://www.iea.org/topics/covid-19">here</a>).</p>
+<p>To compare actual electricity consumption with a counterfactual “business as usual” baseline had COVID-19 not happened, I forecast baseline electricity consumption with a harmonic dynamic ARIMA regression controlling for quadratic temperature and calendar effects (more methodological details below). I have analyzed the most affected European countries and US states by comparing the daily consumption with the baseline electricity demand. Figure 1 shows the cumulative change in electricity demand since the first day of national/state-wide lockdown with respect to the baseline. Some countries implemented regional restrictions before the national lockdown, so the actual cumulative drop is stronger than shown here.</p>
+<div class="figure">
+<img src="featured.png" alt="Cumulative change in electricity consumption since national lockdown" fig.align="center" />
+<p class="caption">Cumulative change in electricity consumption since national lockdown</p>
+</div>
+<p>Italy suffered the strongest cumulative drop in electricity consumption of 17.3%. On the contrary, Florida has not suffered a net negative impact. Most countries/states have experienced a cumulative decline of between 6-14%. In general, it seems that the decline has been stronger in European countries than America states. In future posts I will analyze these countries/states one by one. Follow me on <a href="https://twitter.com/lopez_prol">twitter</a> if you want to be updated.</p>
+<p><strong>Methodological details</strong>
+Subdaily data has been taken from ENTSO-E for the European countries and the EIA for the American states since January (July for the USA) 2015. The dynamic harmonic regression has been trained with data up to February 2020 and the forecast for March and April is compared with actual daily electricity consumption. The harmonic dynamic regression captures complex weekly and yearly seasonality with Fourier terms, short term dynamics with autorregressive moving average (ARMA) errors, and covariates include quadratic maximum daily temperature and a holiday dummy.</p>

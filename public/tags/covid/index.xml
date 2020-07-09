@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID | Javier López Prol</title>
+    <link>/tags/covid/</link>
+      <atom:link href="/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>COVID</title>
+      <link>/tags/covid/</link>
+    </image>
+    
+    <item>
+      <title>Impact of COVID-19 on electricity consumption</title>
+      <link>/post/impact-of-covid-19-on-electricity-consumption/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/impact-of-covid-19-on-electricity-consumption/</guid>
+      <description>
+
+
+&lt;p&gt;The measures taken by governments to halt the spread of COVID-19 have heterogeneously affected electricity consumption. The Bruegel Institute is tracking the evolution of peak electricity demand compared to last year (see &lt;a href=&#34;https://www.bruegel.org/publications/datasets/bruegel-electricity-tracker-of-covid-19-lockdown-effects/&#34;&gt;here&lt;/a&gt;), and the International Energy Agency has a full report on the impact of COVID-19 on the energy sector (see &lt;a href=&#34;https://www.iea.org/topics/covid-19&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;To compare actual electricity consumption with a counterfactual “business as usual” baseline had COVID-19 not happened, I forecast baseline electricity consumption with a harmonic dynamic ARIMA regression controlling for quadratic temperature and calendar effects (more methodological details below). I have analyzed the most affected European countries and US states by comparing the daily consumption with the baseline electricity demand. Figure 1 shows the cumulative change in electricity demand since the first day of national/state-wide lockdown with respect to the baseline. Some countries implemented regional restrictions before the national lockdown, so the actual cumulative drop is stronger than shown here.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;Cumulative change in electricity consumption since national lockdown&#34; fig.align=&#34;center&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Cumulative change in electricity consumption since national lockdown&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Italy suffered the strongest cumulative drop in electricity consumption of 17.3%. On the contrary, Florida has not suffered a net negative impact. Most countries/states have experienced a cumulative decline of between 6-14%. In general, it seems that the decline has been stronger in European countries than America states. In future posts I will analyze these countries/states one by one. Follow me on &lt;a href=&#34;https://twitter.com/lopez_prol&#34;&gt;twitter&lt;/a&gt; if you want to be updated.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methodological details&lt;/strong&gt;
+Subdaily data has been taken from ENTSO-E for the European countries and the EIA for the American states since January (July for the USA) 2015. The dynamic harmonic regression has been trained with data up to February 2020 and the forecast for March and April is compared with actual daily electricity consumption. The harmonic dynamic regression captures complex weekly and yearly seasonality with Fourier terms, short term dynamics with autorregressive moving average (ARMA) errors, and covariates include quadratic maximum daily temperature and a holiday dummy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
