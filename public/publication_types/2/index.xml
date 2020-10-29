@@ -5,12 +5,28 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Photovoltaic self-consumption is now profitable in Spain. Effects of the new regulation on prosumers&#39; internal rate of return</title>
+      <link>/publication/pv_sc_es2/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pv_sc_es2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of COVID-19 Measures on Short-Term Electricity Consumption in the Most Affected EU Countries and USA States</title>
+      <link>/publication/covid/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/covid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The cannibalization effect of wind and solar in the California wholesale electricity market</title>
