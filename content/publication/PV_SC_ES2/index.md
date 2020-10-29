@@ -1,6 +1,6 @@
 +++
 title = "Photovoltaic self-consumption is now profitable in Spain. Effects of the new regulation on prosumers' internal rate of return"
-date = "2020-11-01"
+date = "2020-10-01"
 authors = ["Javier Lopez Prol", "Karl W Steininger"]
 publication_types = ["2"]
 publication = "Energy Policy, (146), https://doi.org/10.1016/j.enpol.2020.111793"
