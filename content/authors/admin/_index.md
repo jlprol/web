@@ -25,11 +25,9 @@ interests:
 - Data Analysis
 name: Javier López Prol
 organizations:
-- name: German Institute for Economic Research (DIW-Berlin)
-  url: "https://www.diw.de/en"
-- name: Wegener Center for Climate and Global Change - University of Graz
-  url: "https://wegcenter.uni-graz.at/en/"
-role: Postdoc Schrödinger fellow
+- name: Yonsei University - Mirae Campus
+  url: "https://www.yonsei.ac.kr/en_sc/index.jsp"
+role: Assistant Professor of Economics
 social:
 - icon: envelope
   icon_pack: fa
@@ -52,4 +50,4 @@ user_groups:
 - Visitors
 ---
 
-Keeping myself sober to avoid falling in the [drunkard's search](https://en.wikipedia.org/wiki/Streetlight_effect). Problems don't care about borders and neither should we. I'm interested in the economic implications of climate change and the energy transition. Particularly the [diffusion](https://doi.org/10.1016/j.rser.2018.04.030) and [integration](https://doi.org/10.1002/pip.2988) of variable renewables in [wholesale](https://doi.org/10.1016/j.eneco.2019.104552) and [retail](https://doi.org/10.1016/j.enpol.2017.06.019) electricity markets. Also interested in [development](http://journals.univ-danubius.ro/index.php/euroeconomica/article/view/2514/2510), [political economy](https://www.sciencedirect.com/science/article/pii/S0301703616300062) and [interdisciplinary research](https://www.sciencedirect.com/science/article/pii/S0040162517302706?via%3Dihub)
+Keeping myself sober to avoid falling in the [drunkard's search](https://en.wikipedia.org/wiki/Streetlight_effect). Problems don't care about borders and neither should we. I'm interested in the economic implications of climate change and the energy transition. Particularly the [diffusion](https://doi.org/10.1016/j.rser.2018.04.030) and [integration](https://doi.org/10.1002/pip.2988) of variable renewables in [wholesale](https://doi.org/10.1016/j.eneco.2019.104552) and [retail](https://doi.org/10.1016/j.enpol.2017.06.019) electricity markets. Also interested in [development](http://journals.univ-danubius.ro/index.php/euroeconomica/article/view/2514/2510), [political economy](https://www.sciencedirect.com/science/article/pii/S0301703616300062) and [interdisciplinary research](https://www.sciencedirect.com/science/article/pii/S0040162517302706?via%3Dihub).
