@@ -158,4 +158,4 @@ bibtex_2academic(bibfile  = my_bibfile,
                  abstract  = FALSE)
 
 
-blogdown:::new_post_addin()
+# blogdown:::new_post_addin()
